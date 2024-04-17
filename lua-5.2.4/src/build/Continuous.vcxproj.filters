@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Home\code\git\Lua_2_2_4\lua-5.2.4\src\build\CMakeFiles\1d02e7c928c8ebf671da621297741da6\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\Home\code\git\Lua_2_2_4\lua-5.2.4\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Home\code\git\Lua_2_2_4\lua-5.2.4\src\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7634B679-1E05-3033-B1F9-8EAEC63627E3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

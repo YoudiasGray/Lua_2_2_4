@@ -1,0 +1,10 @@
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/lua.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/luac.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/Experimental.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/Nightly.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/Continuous.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/PACKAGE.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/RUN_TESTS.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/ALL_BUILD.dir
+D:/Home/code/git/Lua_2_2_4/lua-5.2.4/src/build/CMakeFiles/ZERO_CHECK.dir
